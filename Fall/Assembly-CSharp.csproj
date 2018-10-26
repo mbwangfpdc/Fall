@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\StartUpScript.cs" />
      <None Include="Assets\JsonDotNet\link.xml" />
  <Reference Include="UnityEngine.Analytics">
